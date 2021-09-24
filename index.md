@@ -8,7 +8,7 @@
         i += 110
 ```
 
-[My favorite personal project: ](https://youtu.be/WXlDG_hzE0E)
+My favorite personal project is [FitnessFormFixer](https://youtu.be/WXlDG_hzE0E)
 
 [Back to top](#Hello)
 
