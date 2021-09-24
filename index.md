@@ -27,4 +27,4 @@ Food I like to eat:
 3. Banana pudding
 
 My goal out of this class is to:
-- [] Become a great software engineer!!!!!
+- [ ] Become a great software engineer!!!!!
